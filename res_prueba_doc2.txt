@@ -1,0 +1,12 @@
+" " Fe 1
+Diego_Rivera diego_rivera NP00000 1
+fue ser VSIS3S0 0.935924
+pintor pintor NCMS000 0.97619
+muralista muralista AQ0CS0 1
+que que PR0CN000 0.562517
+se se P00CN000 0.465639
+caso caso NCMS000 0.99812
+con con SPS00 1
+Frida_Kahlo frida_kahlo NP00000 1
+" " Fe 1
+

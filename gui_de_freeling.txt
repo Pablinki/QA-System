@@ -1,0 +1,22 @@
+echo off
+
+echo Bienvenido a Freeling!
+echo Ingrese texto del documento 1:
+set /p = text1
+
+%text1% >  C:\Users\JP\Desktop\TT\PLN\programa_vsm\prueba_doc1.txt
+
+analyzer -f "%FREELINGSHARE%\config\es.cfg" < C:\Users\JP\Desktop\TT\PLN\programa_vsm\prueba_doc1.txt > C:\Users\JP\Desktop\TT\PLN\programa_vsm\res_prueba_doc1.txt
+
+
+echo Ingrese texto del documento 2:
+set /p = text2
+%text2% >  C:\Users\JP\Desktop\TT\PLN\programa_vsm\prueba_doc1.txt
+
+analyzer -f "%FREELINGSHARE%\config\es.cfg" < C:\Users\JP\Desktop\TT\PLN\programa_vsm\prueba_doc1.txt > C:\Users\JP\Desktop\TT\PLN\programa_vsm\res_prueba_doc1.txt
+
+echo Ingrese texto de la consulta:
+set /p = consulta
+%consulta% >  C:\Users\JP\Desktop\TT\PLN\programa_vsm\prueba_doc1.txt
+
+analyzer -f "%FREELINGSHARE%\config\es.cfg" < C:\Users\JP\Desktop\TT\PLN\programa_vsm\prueba_doc1.txt > C:\Users\JP\Desktop\TT\PLN\programa_vsm\res_prueba_doc1.txt

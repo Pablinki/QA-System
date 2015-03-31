@@ -1,0 +1,32 @@
+Fecha: 01 Sep 2013
+
+Desarrollan software para evitar fallos en sistemas operativos
+En el 2014, investigadores de la Universidad Autónoma del Estado de México (UAEM) sacarán al mercado nacional un software, con herramientas y soluciones, que permitirá detectar y reducir fallos en sistemas operativos.
+
+En el 2014, investigadores de la Universidad Autónoma del Estado de México (UAEM) sacarán al mercado nacional un software, con herramientas y soluciones, que permitirá detectar y reducir fallos en sistemas operativos.
+
+Con el nuevo software se disminuirán riesgos, pérdidas millonarias e incluso problemas que pueden afectar a los operadores de los sistemas, destacó la investigadora Leticia Dávila, del campus Valle de México de la UAEM.
+
+Se desarrolla, en conjunto con el Instituto Tecnológico de Veracruz, una línea de investigación de ingeniería y calidad de software, dijo, que permitirá desarrollar herramientas y técnicas para dar confiabilidad a estos sistemas con el objetivo de que estén libres de fallos.
+
+Explicó que se trabaja en esta confiabilidad de software, que ya se tiene a nivel mundial, pero que en México apenas se inicia en el desarrollo de los mismos, con el fin de contar con la evaluación de confiabilidad, que permiten corregir los fallos de los sistemas.
+
+La investigadora indicó en entrevista que estas herramientas buscan mejorar la eficiencia y la productividad de estos sistemas, pues "hay casos muy críticos a nivel mundial, que han representado pérdidas de millones de dólares en diversos rubros".
+
+En la medicina, hubo el caso de un problema de software, en un aparato de rayos X controlado por un sistema de cómputo que generó quemaduras a los pacientes expuestos, mencionó.
+
+En México, un ejemplo de los problemas de fallos, es cuando los portales bancarios salen de línea generando pérdidas millonarias a usuarios y operadores", precisó.
+
+Refirió que los riesgos de fallos en los software, no sólo son económicos o pérdidas en la producción, toda vez que hay sistemas que pueden ocasionar pérdidas y daños a las personas que tienen a su cargo la operación de los mismos.
+
+Actualmente, la UAEM cuenta ya con un prototipo de este sistema, que además de localizar fallos, permite dar los recursos de solución.
+
+"Tenemos un prototipo ya operando, es una evaluación de un sistema de internet, a través del cual en cinco hora se hacen miles de evaluaciones virtuales, lo que permite detectar en forma rápida los fallos y su corrección antes de que representen pérdidas o problemas mayores", subrayó.
+
+Con este prototipo y los resultados obtenidos de la muestra, los investigadores desarrollan una herramienta más general en la práctica, con aplicación de las investigaciones que ya realizaron, para lograr que su introducción sea para todos los sectores, tanto públicos como privados.
+
+De acuerdo con la especialista Leticia Dávila, este proyecto estará listo para entrar en el mercado en el 2014, aunque por el momento no tienen un estimado del costo que pudiera representar para los usuarios.
+
+Refirió que por las limitaciones actualmente lo están operando como un software libre, es decir sin costo de licencia.
+
+En tanto, los prototipos y prácticas se han realizado con los pocos recursos que cuentan en la casa de estudios, por lo que previamente se hará un estudio de mercado para establecer el costo, considerando los innumerables beneficios que dará a los sistemas operativos, concluyó.

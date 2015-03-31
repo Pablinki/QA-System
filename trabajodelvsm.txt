@@ -1,0 +1,65 @@
+from hash import eagles
+from hashsin import eagles_sin
+from coseno import coseno
+#Logica para abrir archivo
+ar=open('result_freeling.txt', 'r')#.read().split()
+
+Result = [line.split() for line in ar.readlines()]
+
+
+#Convierto a dictionario
+eagles_dict = dict(eagles)
+#print [item for item in Result if item[2] in eagles_dict]
+#print eagles_dict
+
+
+############################
+#def check(lista):
+    #return [x[2] for x in lista if (x[2] in y[0] for y in eagles)]
+#print(check(Result))
+############################
+
+#e = [x for x in eagles]
+#print e
+###############################
+#r = [item for item in e if item in Result]
+#rg =[]
+#for i in Result:
+#    rg = i[2]
+###############################
+#r1=[]
+
+#def compara_et(lista):
+n=0
+r1=[]
+e =[]
+for item in Result:
+    #print item[2]
+    if item[2] in eagles_dict.keys():
+        n = n + 1
+        print n
+        print item
+        r1.append(n)
+        print r1
+        e.append(item[2])
+        print e
+#           return item[2]
+            #print [x for x in item]
+        #else:
+            #print "no corresponde la etiqueta"
+################################
+#Llamo coseno
+coseno(r1,r1)
+          
+#frecuencia = len(compara_et(Result))
+#print "frecuencia de terminos"
+#print(frecuencia)
+################################
+#eagles_first_parts = [eagle for eagle in eagles]
+#r2 = [item for item in Result if item[2] in eagles_first_parts]
+#print r2 
+################################
+
+
+
+

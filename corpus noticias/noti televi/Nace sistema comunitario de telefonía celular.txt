@@ -1,0 +1,35 @@
+ 2013-09-17
+Nace sistema comunitario de telefonía celular
+TALEA DE CASTRO, Oaxaca, México. Sep. 17, 2013.- La revolución global de las comunicaciones que se extendió por el mundo en los últimos años no llegó a la pequeña aldea zapoteca Talea de Castro, ubicada en las montañas del sur de México, donde para hacer cualquier tipo de llamada había que caminar hasta una línea telefónica de la comunidad y pagar el equivalente a un día de salario por cinco minutos de conversación.
+ 
+Pero todo esto cambió gracias a un ingenioso plan cuyos promotores esperan pueda conectar con el mundo a miles de pueblos pequeños de México que actualmente se encuentran aislados.
+ 
+Utilizando receptores de radio, un computador portátil y tecnologías de interconectividad relativamente baratas, la gente de la aldea saltó al siglo XXI mediante la creación de lo que se podría llamar una mini compañía de telecomunicaciones capaz de manejar 11 llamadas de celulares simultáneas a un costo muy inferior al que antes solían pagar.
+ 
+"Ha sido un proyecto que ha funcionado para mantener la comunicación, porque antes se podía comunicar muy poco, porque era muy caro", dijo Keyla Ramírez Cruz, residente Talea, quien tiene un programa en la radio comunitaria y que coordina el nuevo sistema telefónico.
+ 
+Antes de la creación del sistema, los 2.500 residentes del poblado hacían sus llamadas desde la "caseta", una tienda con una línea telefónica fija y que pagaban una tarifa de más de un dólar por minuto. Había poca privacidad y las llamadas internacionales costaban más de un dólar por minuto.
+ 
+Para las llamadas entrantes era peor: se requería de un mensajero que corriera para atender las llamadas y avisarle a la gente del pueblo cuando alguien los estaba buscando. Ahora, casi nadie en el poblado utiliza la caseta.
+ 
+En sólo seis meses, más de 720 residentes se inscribieron para utilizar el nuevo sistema. Las llamadas locales realizadas a teléfonos móviles son gratuitas mientras que llamar a familiares que viven en Los Ángeles, por ejemplo, cuesta sólo 20 centavos mexicanos (1,5 centavos de dólar) por minuto. Cada suscriptor tiene un número de celular distinto.
+ 
+El sistema usa una pequeña antena que capta las llamadas a través de un software instalado en una radio. Básicamente, se trata de un radio genérico que puede operar de una manera más económica y sencilla y utilizar menos energía porque ahora el software está haciendo la mayor parte del trabajo.
+ 
+Este software es gratis, tiene su código abierto y sustituye a complejos sistemas celulares de propiedad de empresas privadas para recibir, transmitir y facturar llamadas. El programa también está diseñado para interactuar fácilmente con otros servicios de telefonía de internet, como Skype, que hace llamadas desde la conexión a la red global.
+ 
+El software puede descargarse gratuitamente de la red y ejecutarse en un ordenador portátil. Así, la ciudad no tiene que pagarle a las grandes compañías comerciales, que cobran por enrutar cada llamada.
+ 
+Pero el sistema ha presentado algunos contratiempos, incluida la mala recepción en algunas viviendas ubicadas en la periferia de la comunidad, o cuando hay mal clima y cuando hay pérdida momentánea del servicio de internet. Pero en general ha funcionado bien y ha resultado ser tan popular que la asamblea local votó a favor de imponer un corte automático cuando una llamada alcanza los cinco minutos para evitar la saturación de las líneas.
+ 
+El sistema fue adoptado después de años de solicitar sin éxito el servicio de telefonía celular a las empresas de telecomunicaciones mexicanas.
+ 
+"No quisieron poner el servicio celular porque decían que éramos comunidades muy pequeñas, que necesitaban comunidades mayores de 5.000 habitantes", expresó Israel Hernández, residente del lugar. "Pero en la sierra de Oaxaca no hay muchas comunidades de más de 5.000 habitantes".
+ 
+Los habitantes del lugar, enojados, celebraron una asamblea indígena en marzo en la plaza principal del poblado y decidieron invertir cerca de 30.000 dólares de las arcas municipales para instalar el pequeño sistema telefónico, el software, la mayor parte de la antena y la estación de radio. El sistema de enlace a través de internet se hace mediante un proveedor de servicios de telefonía inalámbrica; algo así como una versión móvil del Skype.
+ 
+Una organización sin ánimo llamada Rhizomatica, que estuvo detrás de la instalación del sistema, dice que podría ser un modelo para otros pueblos indígenas del mundo que se encuentran aislados y donde se estima que viven unas 700 millones de personas que carecen de un servicio celular asequible.
+ 
+Aún subsisten muchos obstáculos para que estos sistemas micro operen bien pues a menudo necesitan utilizar parte del espectro electromagnético puesto que sus mejores partes fueron compradas por las grandes compañías de telecomunicaciones.
+ 
+David Burgess, presidente de la compañía Range Networks con sede en San Francisco, y que proporcionó buena parte de la tecnología para el sistema telefónico de Talea de Castro, cree que las empresas podrían alquilar `bits' no utilizados, dentro del espectro electromagnético comprado, a pueblos, organizaciones o pequeños operadores que desean ofrecer servicios rurales.

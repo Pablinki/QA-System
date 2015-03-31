@@ -1,0 +1,49 @@
+Hello there! 
+How can I build a function that receives a dictionary like {'a':0.4, 'b':0.2, 'c':0.1, 'd':0.5} and a list of lists [['a','red',1],['c','green', 4],['b','blue, 5]] so that I can map the letters of the list in the dictionary and return their values normalized, like this:
+
+result = sqrt((0.4^2)+(0.1^2)+(0.2^2))
+
+this is my attempt:
+
+from numpy.linalg import norm
+
+def normalizing(dic, l1):
+    result = []
+    for i in dic:
+        if i in l1:
+            result.append(s[i])
+    return norm(result)
+
+returning 0.0	
+
+Your help is greatly appreciated!
++++++++++++++++++++++++++++++++++++++
+dic =  {'a': 0.4, 'c': 0.1, 'b': 0.2, 'd': 0.5}
+l = [['a', 'red', 1], ['c', 'green', 4], ['b', 'blue', 5]]
+
+import math
+
+def normalizing(dic, l):
+    result = []
+    for i in dic:
+        if i in [j[0] for j in l]:
+            result.append(dic[i])
+
+    print result #[0.4, 0.1, 0.2]
+    return math.sqrt(sum(k*k for k in result))
++++++++++++++++++++++++++++++++++++++++
+
+Your result gives 0 because of the way you are doing the for loop:
+
+for i in dic: # for every letter in the dictionary
+    if i in l1:  # if that letter is one of the elements of the list l1
+i is never one of the elements of l1 in your example, but ["a", "red", 1], for example. You are comparing one letter to that list, and of course it tells you it does not find it.
+
+Assuming that you never have more than "a list within a list", that is, assuming you don't need to iterate level after level with recursivity, a code that could work is:
+
+import math
+for letter in dic:
+    for element in l1:
+        if letter in element:
+            result.append(dic[letter]**2)
+return math.sqrt(sum(result))

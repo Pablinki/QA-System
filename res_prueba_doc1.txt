@@ -1,0 +1,17 @@
+" " Fe 1
+Francisco_Villa francisco_villa NP00000 1
+estuvo estar VAIS3S0 1
+en en SPS00 1
+la el DA0FS0 0.972269
+Revolucion_Mexicana revolucion_mexicana NP00000 1
+y y CC 0.999962
+Francisco_Villa francisco_villa NP00000 1
+fue ser VSIS3S0 0.935924
+nombrado nombrar VMP00SM 1
+el el DA0MS0 1
+centauro centauro NCMS000 1
+de de SPS00 1
+el el DA0MS0 1
+norte norte NCMS000 1
+" " Fe 1
+
